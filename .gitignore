@@ -1,0 +1,20 @@
+# .gitignore
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.env
+.venv
+.vscode
+*.log
+.DS_Store
+
+# Archivos temporales de office
+*.tmp
+*.temp
+.*.lock.*
+.~lock.*
+~$*
+._*
