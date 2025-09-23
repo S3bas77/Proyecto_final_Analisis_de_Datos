@@ -1,0 +1,101 @@
+client_id,industry,size,region,support_contract,tickets_opened_last_year,avg_response_time_hours,satisfaction_score,renewed_contract
+C1000,Finanzas,Pequeña,Oruro,0,21,33.5,5,0
+C1001,Otros,Mediana,Santa Cruz,1,21,25.8,3,1
+C1002,Educación,Pequeña,La Paz,1,23,24.6,2,1
+C1003,Gobierno,Mediana,Oruro,1,16,17.0,1,1
+C1004,Retail,Grande,Oruro,0,26,18.4,5,1
+C1005,Retail,Pequeña,Santa Cruz,0,16,14.5,4,0
+C1006,Retail,Pequeña,La Paz,0,23,6.6,5,1
+C1007,Salud,Mediana,Santa Cruz,1,18,20.9,4,1
+C1008,Educación,Pequeña,La Paz,0,20,21.6,5,0
+C1009,Educación,Pequeña,Potosí,1,17,41.4,5,0
+C1010,Retail,Pequeña,Cochabamba,0,25,36.5,5,0
+C1011,Otros,Pequeña,Cochabamba,1,20,28.4,4,1
+C1012,Salud,Grande,Cochabamba,1,12,40.7,4,0
+C1013,Finanzas,Grande,Santa Cruz,1,21,35.1,5,0
+C1014,Retail,Mediana,Potosí,0,24,7.9,2,0
+C1015,Retail,Grande,La Paz,1,23,32.5,3,0
+C1016,Finanzas,Grande,Oruro,1,19,29.7,3,1
+C1017,Gobierno,Pequeña,La Paz,0,19,21.7,3,1
+C1018,Gobierno,Grande,Oruro,0,14,12.7,4,0
+C1019,Finanzas,Mediana,La Paz,1,16,28.8,4,1
+C1020,Educación,Grande,Potosí,1,21,7.4,2,0
+C1021,Retail,Grande,Oruro,0,23,23.8,3,0
+C1022,Finanzas,Pequeña,Santa Cruz,0,18,19.1,3,0
+C1023,Finanzas,Pequeña,La Paz,1,16,13.9,5,1
+C1024,Gobierno,Pequeña,La Paz,1,19,33.5,4,0
+C1025,Salud,Pequeña,Oruro,0,19,23.7,3,0
+C1026,Retail,Grande,Santa Cruz,0,23,25.4,2,0
+C1027,Gobierno,Grande,Santa Cruz,0,22,31.3,2,0
+C1028,Gobierno,Pequeña,Potosí,1,19,23.9,3,0
+C1029,Retail,Mediana,Santa Cruz,1,12,27.6,4,1
+C1030,Educación,Pequeña,Santa Cruz,0,19,30.5,2,1
+C1031,Retail,Pequeña,Santa Cruz,1,17,28.5,5,0
+C1032,Retail,Pequeña,Cochabamba,1,16,26.3,2,1
+C1033,Otros,Pequeña,Potosí,0,12,38.3,1,0
+C1034,Otros,Grande,La Paz,0,16,33.9,1,0
+C1035,Salud,Pequeña,Oruro,0,18,23.3,4,0
+C1036,Finanzas,Mediana,La Paz,1,11,16.7,3,1
+C1037,Retail,Mediana,Potosí,1,13,29.1,4,1
+C1038,Educación,Pequeña,Oruro,1,15,25.7,4,1
+C1039,Gobierno,Grande,Potosí,1,18,37.7,4,0
+C1040,Retail,Grande,Santa Cruz,1,17,31.9,4,0
+C1041,Gobierno,Pequeña,Oruro,1,17,30.1,5,0
+C1042,Retail,Pequeña,Santa Cruz,0,19,24.1,5,0
+C1043,Otros,Pequeña,La Paz,1,17,17.0,2,0
+C1044,Finanzas,Pequeña,La Paz,0,19,22.4,1,0
+C1045,Educación,Pequeña,Oruro,0,28,27.8,4,1
+C1046,Finanzas,Mediana,Oruro,0,26,10.2,2,1
+C1047,Gobierno,Mediana,Potosí,0,15,33.9,1,1
+C1048,Gobierno,Pequeña,Potosí,0,24,40.5,3,0
+C1049,Retail,Pequeña,Santa Cruz,0,23,8.4,5,1
+C1050,Otros,Grande,Oruro,1,25,12.8,1,1
+C1051,Salud,Pequeña,La Paz,0,11,25.8,3,0
+C1052,Otros,Pequeña,Potosí,0,14,19.3,1,0
+C1053,Salud,Pequeña,Potosí,1,12,26.1,5,1
+C1054,Gobierno,Grande,La Paz,1,20,23.4,5,1
+C1055,Otros,Pequeña,Potosí,0,27,15.8,2,0
+C1056,Retail,Mediana,Santa Cruz,1,23,34.3,4,0
+C1057,Retail,Mediana,Oruro,1,18,27.7,1,1
+C1058,Retail,Pequeña,La Paz,0,16,19.5,1,0
+C1059,Finanzas,Mediana,Oruro,1,17,36.0,3,0
+C1060,Finanzas,Pequeña,Potosí,1,26,19.9,5,1
+C1061,Finanzas,Mediana,Potosí,0,10,14.1,1,0
+C1062,Salud,Mediana,La Paz,0,20,25.5,5,0
+C1063,Finanzas,Mediana,Santa Cruz,1,17,26.8,1,0
+C1064,Finanzas,Pequeña,Cochabamba,1,33,28.3,2,0
+C1065,Gobierno,Grande,La Paz,1,24,29.6,4,0
+C1066,Retail,Pequeña,Cochabamba,1,20,28.1,1,0
+C1067,Salud,Pequeña,Cochabamba,1,24,27.8,5,1
+C1068,Retail,Pequeña,Santa Cruz,1,21,19.4,2,1
+C1069,Otros,Mediana,Cochabamba,1,21,18.6,1,0
+C1070,Salud,Mediana,Cochabamba,1,23,29.9,3,1
+C1071,Retail,Pequeña,Santa Cruz,1,19,25.9,4,1
+C1072,Retail,Mediana,Cochabamba,1,17,30.6,1,0
+C1073,Salud,Pequeña,Cochabamba,1,23,10.3,2,0
+C1074,Educación,Mediana,Cochabamba,1,19,20.0,3,0
+C1075,Educación,Pequeña,La Paz,0,24,39.3,2,0
+C1076,Salud,Mediana,La Paz,1,18,28.4,2,1
+C1077,Retail,Pequeña,La Paz,1,21,26.4,3,1
+C1078,Finanzas,Grande,Santa Cruz,1,20,29.7,2,1
+C1079,Retail,Pequeña,Potosí,1,21,41.7,3,1
+C1080,Salud,Pequeña,Cochabamba,1,23,40.0,1,0
+C1081,Educación,Pequeña,Cochabamba,0,23,11.4,3,0
+C1082,Finanzas,Grande,Santa Cruz,0,26,14.3,3,0
+C1083,Retail,Grande,Cochabamba,0,16,11.1,4,1
+C1084,Finanzas,Pequeña,La Paz,0,18,18.0,3,0
+C1085,Finanzas,Mediana,Potosí,0,20,24.4,3,0
+C1086,Educación,Grande,Oruro,1,27,25.9,1,0
+C1087,Educación,Mediana,Cochabamba,0,18,11.8,4,0
+C1088,Salud,Mediana,La Paz,1,13,9.1,5,1
+C1089,Gobierno,Pequeña,Oruro,0,23,17.9,1,0
+C1090,Retail,Pequeña,Potosí,1,15,31.3,1,0
+C1091,Educación,Grande,Oruro,0,12,32.7,5,0
+C1092,Salud,Grande,La Paz,0,28,37.6,3,0
+C1093,Gobierno,Mediana,Oruro,1,24,23.7,2,0
+C1094,Salud,Pequeña,Santa Cruz,1,23,30.6,4,0
+C1095,Gobierno,Pequeña,Oruro,0,14,32.1,2,0
+C1096,Gobierno,Mediana,Cochabamba,1,23,20.0,5,1
+C1097,Gobierno,Grande,Cochabamba,0,26,27.1,1,0
+C1098,Retail,Grande,Santa Cruz,1,19,29.3,1,0
+C1099,Retail,Mediana,La Paz,1,23,16.7,4,1

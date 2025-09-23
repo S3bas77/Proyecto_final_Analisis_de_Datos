@@ -5,14 +5,7 @@ import random
 import os
 
 # Usar la ruta actual del proyecto como base
-base_path = "./"  # Cambiado de "/mnt/data/" a "./"
-
-# Las carpetas ya están creadas manualmente, así que comentamos esta parte
-# folders = [
-#     "data", "notebooks", "src", "docs", "anexos/modelos"
-# ]
-# for folder in folders:
-#     os.makedirs(os.path.join(base_path, folder), exist_ok=True)
+base_path = "./" 
 
 # Semilla para reproducibilidad
 np.random.seed(42)
