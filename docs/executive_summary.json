@@ -1,0 +1,18 @@
+{
+  "total_projects": 200,
+  "delayed_rate": "32.5%",
+  "renewal_rate": "38.0%",
+  "avg_satisfaction": "3.0/5",
+  "key_insights": [
+    "Complejidad es el principal driver de retrasos (45% vs 25% baja complejidad)",
+    "Equipos de 5-8 desarrolladores tienen menor tasa de retraso",
+    "Satisfacci\u00f3n 4+ aumenta probabilidad de renovaci\u00f3n a >80%",
+    "Tiempo respuesta <20h aumenta renovaci\u00f3n a 85%"
+  ],
+  "recommendations": [
+    "Implementar sistema alerta temprana retrasos",
+    "Optimizar tama\u00f1o equipos (5-8 desarrolladores)",
+    "Programa mejora servicio al cliente",
+    "Estrategias diferenciadas por industria"
+  ]
+}
