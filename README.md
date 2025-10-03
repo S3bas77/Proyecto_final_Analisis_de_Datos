@@ -58,13 +58,13 @@ PROYECTO_FINAL_ANALITICA/
    - `03_modeling.ipynb`
    - `04_storytelling.ipynb`
 
-## 📊 Herramientas
+## Herramientas
 - Python 3.10+
 - Numpy, Pandas, Scikit-learn
 - Matplotlib, Seaborn
 - Jupyter Notebook
 - VSCode en Ubuntu 22.04
 
-## 📜 Nota Ética
+## Nota Ética
 Aunque la empresa **OS Bolivia** es real, los datos utilizados son **totalmente simulados** con fines académicos.  
 El proyecto garantiza el cumplimiento de buenas prácticas en privacidad y transparencia.
